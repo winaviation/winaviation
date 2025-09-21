@@ -19,13 +19,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=CSS3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px>  </picture> Development Tools
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FE7A1E?logoColor=white)
