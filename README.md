@@ -19,7 +19,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px>  </picture> Development Tools
