@@ -32,7 +32,7 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 30px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows_10-0078D6?logo=quarto&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?logo=quarto&logoColor=white)
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-000000?logo=Apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
