@@ -7,12 +7,6 @@
 </div>
 <img src="https://winaviation.github.io/gradient.png" />
 
-## 🔧 What I do
-
-- 💻 Develop some softwares (web apps, I'm too stupid to make native GUIs). Mostly for personal use.
-- 🛠️ Execute fun experiments, like hackintoshing, iOS jailbreaking, BIOS modding, etc.
-- 🌱 Enjoy life
-
 ## 🧰 What I use
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px> </picture> Programming Languages
