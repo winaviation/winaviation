@@ -32,14 +32,8 @@ honestly just visit https://winaviation.github.io
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> GitHub Stats
 
-<p align="left">
-<table align="center">
-<tr border="none">
 
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=winaviation&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=winaviation&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=winaviation&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
+</div>
